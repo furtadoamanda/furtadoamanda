@@ -2,7 +2,7 @@
 
 * 📚 Sou estudante de Sistemas de Informação
 * 💡 Me dedico a aprender HTML, CSS e JavaScript
-* 📍 Estou começando a aprender Python
+* 📍 Estou começando a aprender Python e C#
 
 
 <a href="https://github.com/furtadoamanda/github-readme-stats">
