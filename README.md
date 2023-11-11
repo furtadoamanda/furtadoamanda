@@ -1,8 +1,8 @@
 ## Oii! Eu sou a Amanda Furtado
 
 * 📚 Sou estudante de Sistemas de Informação
-* 💡 Me dedico a aprender HTML, CSS e JavaScript
-* 📍 Estou começando a aprender Python e C#
+* 💡 Atualmente me dedico a aprender Python e C#
+* 📍 Moro em Juiz de Fora - MG - Brasil
 
 
 <a href="https://github.com/furtadoamanda/github-readme-stats">
