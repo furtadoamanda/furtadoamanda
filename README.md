@@ -7,10 +7,10 @@
 
 
 <a href="https://github.com/furtadoamanda/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=furtadoamanda&theme=kacho_ga"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=furtadoamanda&theme=moltack"/>
 </a>
 <a href="https://github.com/furtadoamanda/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furtadoamanda&layout=compact&langs_count=8&theme=kacho_ga"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furtadoamanda&layout=compact&langs_count=8&theme=moltack"/>
 </a>
 
 
