@@ -1,4 +1,4 @@
-## Oii! Eu sou a Amanda Furtado
+## Oii! Eu sou a Amanda
 
 * 📚 Sou estudante de Sistemas de Informação
 * 💡 Atualmente me dedico a aprender Python e C#
