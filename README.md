@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Amanda
 
 * 📚 Sou estudante de Sistemas de Informação
-* 💡 Atualmente me dedico a aprender Python e C#
+* 💡 Atualmente me dedico a aprender Python
 * 📌 Fiz cursos e projetos com HTML, CSS e Javascript
 * 📍 Moro em Juiz de Fora - MG - Brasil
 
