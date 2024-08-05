@@ -4,7 +4,7 @@
 
 * 📚 Sou estudante de Sistemas de Informação
 * 💡 Atualmente me dedico a aprender Python e SQL
-* 📌 Fiz cursos e projetos com HTML, CSS e Javascript
+* 📌 Fiz cursos e projetos com HTML, CSS, Javascript e C#
 * 📍 Moro em Juiz de Fora - MG - Brasil
 
 
