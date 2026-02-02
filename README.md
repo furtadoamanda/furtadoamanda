@@ -1,9 +1,7 @@
 
-![header-af](https://github.com/user-attachments/assets/1b32aa8c-0d55-4799-bd21-21001ef773af)
 
-
-* 📚 Sou estudante de Sistemas de Informação
-* 💡 Atualmente me dedico a aprender Python e SQL
+* 📚 Estudante de Sistemas de Informação
+* 💡 Data Science
 * 📌 Fiz cursos e projetos com HTML, CSS, Javascript e C#
 * 📍 Moro em Juiz de Fora - MG - Brasil
 
